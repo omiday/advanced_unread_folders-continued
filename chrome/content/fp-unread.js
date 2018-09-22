@@ -6,7 +6,7 @@
 "use strict";
 
 Components.utils.import("resource:///modules/iteratorUtils.jsm");
-Components.utils.import("resource:///modules/Services.jsm");
+//Components.utils.import("resource:///modules/Services.jsm");
 Components.utils.import("resource:///modules/mailServices.js");
 
 var unreadHierarchy = {
