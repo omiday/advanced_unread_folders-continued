@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/.
    - Portions Copyright (C) Mikael Hiort af Ornäs, 2011 -->
 
-<!ENTITY fp-unread.options.title "Advanced Unread Folders: Inställningar">
+<!ENTITY fp-unread.options.title "Advanced Unread Folders Continued: Inställningar">
 <!ENTITY fp-unread.alwaysshow.label "Mappar som alltid skall visas:">
 <!ENTITY fp-unread.alwaysshow.inbox.label "Inkorgen">
 <!ENTITY fp-unread.alwaysshow.drafts.label "Utkast">

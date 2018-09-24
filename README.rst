@@ -1,6 +1,6 @@
-################################
-Advance Unread Folders Continued
-################################
+#################################
+Advanced Unread Folders Continued
+#################################
 
 `Original code`_ doesn't seem to be maintained anymore...more info to come, for 
 now I've made it work...

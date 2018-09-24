@@ -2,14 +2,14 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/.
-   - Portions Copyright (C) Philipp Kewisch, 2012-2016 -->
+-->
 
 <RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
      xmlns:em="http://www.mozilla.org/2004/em-rdf#">
   <Description about="urn:mozilla:install-manifest">
 
-    <em:id>fp-unread@mozilla.kewis.ch</em:id>
-    <em:version>2.4</em:version>
+    <em:id>omiday@infrabit.net</em:id>
+    <em:version>2.4.1</em:version>
     <em:type>2</em:type>
 
     <!-- Target Application this extension can install into,
@@ -18,19 +18,19 @@
       <Description>
         <!-- Thunderbird -->
         <em:id>{3550f703-e582-4d05-9a08-453d09bdfdc6}</em:id>
-        <em:minVersion>3.1</em:minVersion>
-        <em:maxVersion>24.*</em:maxVersion>
+        <em:minVersion>60</em:minVersion>
+        <em:maxVersion>60.*</em:maxVersion>
       </Description>
     </em:targetApplication>
 
     <!-- Front End MetaData -->
-    <em:creator>Philipp Kewisch</em:creator>
-    <em:homepageURL>http://mozilla.kewis.ch/</em:homepageURL>
+    <em:creator>Viorel Tabara</em:creator>
+    <em:homepageURL>https://github.com/omiday/advanced_unread_folders-continued</em:homepageURL>
     <em:iconURL>chrome://fp-unread/content/fp-unread.png</em:iconURL>
     <em:optionsURL>chrome://fp-unread/content/fp-unread-prefs.xul</em:optionsURL>
 
     <!-- Extension name and description -->
-    <em:name>Advanced Unread Folders</em:name>
+    <em:name>Advanced Unread Folders Continued</em:name>
     <em:description>Adds a folder view showing unread folders, including their hierarchy</em:description>
 
     <em:localized>
@@ -54,7 +54,7 @@
     <em:localized>
       <Description>
         <em:locale>sv-SE</em:locale>
-        <em:name>Advanced Unread Folders</em:name>
+        <em:name>Advanced Unread Folders Continued</em:name>
         <em:description>Lägger till en mappvy som visar olästa mappar, inklusive deras struktur.</em:description>
         <em:translator>Mikael Hiort af Ornäs</em:translator>
       </Description>
@@ -63,7 +63,7 @@
     <em:localized>
       <Description>
         <em:locale>sl</em:locale>
-        <em:name>Advanced Unread Folders</em:name>
+        <em:name>Advanced Unread Folders Continued</em:name>
         <em:description>Doda pogled map, ki prikazuje neprebrane mape vključno z njihovo hierarhijo.</em:description>
         <em:translator>Peter Klofutar</em:translator>
       </Description>
