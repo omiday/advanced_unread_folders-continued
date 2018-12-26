@@ -1,7 +1,7 @@
 
 -----
 
-**DISCONTINUED**
+**THIS PROJECT IS NOW DISCONTINUED**
 -----
 
 |
